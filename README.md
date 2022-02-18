@@ -1,7 +1,7 @@
 <div style="text-align: center;" markdown="1">
 
 ## Neural Atari
-### A Monorepo of me re-learning reinforcement learning algorithms, custom policies, and more! <br></br>
+### A Monorepo of my re-learning journey of reinforcement learning algorithms, custom policies, and more! <br></br>
 </div>
 
 
